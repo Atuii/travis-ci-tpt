@@ -21,7 +21,7 @@ describe('incrementByRandom', () => {
 
   it('7 + random = 107', (  ) => {
     const number = incrementByRandom(7);
-    expect(number).tobe(117);
+    expect(number).tobe(107);
   });
 });
 
